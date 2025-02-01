@@ -13,6 +13,5 @@ namespace PetAdoptionCenter.Domain.Domain_Models
         public string? Email { get; set; }
 
         public ICollection<Adoption>? Adoptions { get; set; }
-    //trying if this works
     }
 }
