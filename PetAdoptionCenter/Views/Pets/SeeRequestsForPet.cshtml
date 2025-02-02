@@ -1,0 +1,56 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model PetAdoptionCenter.Domain.Domain_Models.Pet
+
+<h2>Requests for this pet</h2>
+
+<dl class="row">
+
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.Name)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.Name)
+    </dd>
+    </dl>
+
+ <img src="@Model.Image" alt="Card image cap"
+         style="height: 200px;">
+         <hr/>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Full name
+            </th>
+            <th>
+                Email
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Requests)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.Email)
+                </td>
+
+                <td>
+
+                    <button><a asp-action="ApproveAdoption" asp-route-id="@item.Id">Approve adoption</a></button>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

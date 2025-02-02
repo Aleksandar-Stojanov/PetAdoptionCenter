@@ -1,0 +1,53 @@
+﻿@model IEnumerable<PetAdoptionCenter.Domain.Domain_Models.Pet>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+    @for(int i=0;i<Model.ToList().Count; i++)
+    {
+        var item = Model.ToList()[i];
+        if(i % 3 == 0)
+        {
+            @:<div class="row">
+        }
+        <div class="col-3 m-4">
+            <div class="card" style="width: 250px; height: 520px; display: flex; flex-direction: column;">
+                <img src="@item.Image" alt="Card image cap"
+                     style="width: 100%; height: 200px; object-fit: cover;">
+                <div class="card-body" style="flex-grow: 1;">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">Breed: @item.Breed</p>
+                    <p class="card-text">Date of birth: @item.DateOfBirth</p>
+                </div>
+                <div class="card-footer" style="margin-top: auto;">
+                    @if(item.IsAdopted){
+                    <br />
+                    <p>This pet is adopted</p>
+                    }else{
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a><span>|</span>
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a><span>|</span>
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a><span>|</span>
+                        <br />
+                        <a asp-action="RequestAdoption" asp-route-id="@item.Id">Request Adoption</a> 
+                        <br />
+                        <a asp-action="SeeRequestsForPet" asp-route-id="@item.Id">See requests for this pet</a>
+                    
+                    }
+                    
+                </div>
+
+            </div>
+        </div>
+
+        if(i % 3 == 2)
+        {
+            @:</div>
+        }
+    }

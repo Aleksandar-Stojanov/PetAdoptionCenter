@@ -17,3 +17,4 @@ C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\PetAdoptionCenter.Ser
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\PetAdoptionCenter.Service\obj\Debug\net8.0\ref\PetAdoptionCenter.Service.dll
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\PetAdoptionCenter.Service\bin\Debug\net8.0\PetAdoptionCenter.Service.runtimeconfig.json
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\PetAdoptionCenter.Service\obj\Debug\net8.0\PetAdoptionCenter.Service.genruntimeconfig.cache
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\PetAdoptionCenter.Service\obj\Debug\net8.0\PetAdoptionCenter.Service.sourcelink.json

@@ -278,6 +278,9 @@ namespace PetAdoptionCenter.Repository.Migrations
                     b.Property<string>("FirstName")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("FullName")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("LastName")
                         .HasColumnType("nvarchar(max)");
 
@@ -292,18 +295,55 @@ namespace PetAdoptionCenter.Repository.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<int?>("Age")
-                        .HasColumnType("int");
-
                     b.Property<string>("Breed")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid?>("CenterId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime?>("DateOfBirth")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Image")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsAdopted")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CenterId");
+
                     b.ToTable("Pets");
+                });
+
+            modelBuilder.Entity("PetAdoptionCenter.Domain.Domain_Models.RequestForAdoption", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("CenterId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("PetId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("UserId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CenterId");
+
+                    b.HasIndex("PetId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("RequestForAdoption");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -360,7 +400,7 @@ namespace PetAdoptionCenter.Repository.Migrations
             modelBuilder.Entity("PetAdoptionCenter.Domain.Domain_Models.Adoption", b =>
                 {
                     b.HasOne("PetAdoptionCenter.Domain.Domain_Models.AdoptionCenter", "Center")
-                        .WithMany("Adoptions")
+                        .WithMany()
                         .HasForeignKey("CenterId");
 
                     b.HasOne("PetAdoptionCenter.Domain.Domain_Models.Pet", "Pet")
@@ -378,19 +418,53 @@ namespace PetAdoptionCenter.Repository.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("PetAdoptionCenter.Domain.Domain_Models.Pet", b =>
+                {
+                    b.HasOne("PetAdoptionCenter.Domain.Domain_Models.AdoptionCenter", "Center")
+                        .WithMany("Pets")
+                        .HasForeignKey("CenterId");
+
+                    b.Navigation("Center");
+                });
+
+            modelBuilder.Entity("PetAdoptionCenter.Domain.Domain_Models.RequestForAdoption", b =>
+                {
+                    b.HasOne("PetAdoptionCenter.Domain.Domain_Models.AdoptionCenter", "Center")
+                        .WithMany()
+                        .HasForeignKey("CenterId");
+
+                    b.HasOne("PetAdoptionCenter.Domain.Domain_Models.Pet", "Pet")
+                        .WithMany("Requests")
+                        .HasForeignKey("PetId");
+
+                    b.HasOne("PetAdoptionCenter.Domain.Domain_Models.Person", "User")
+                        .WithMany("Requests")
+                        .HasForeignKey("UserId");
+
+                    b.Navigation("Center");
+
+                    b.Navigation("Pet");
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("PetAdoptionCenter.Domain.Domain_Models.AdoptionCenter", b =>
                 {
-                    b.Navigation("Adoptions");
+                    b.Navigation("Pets");
                 });
 
             modelBuilder.Entity("PetAdoptionCenter.Domain.Domain_Models.Person", b =>
                 {
                     b.Navigation("Adoptions");
+
+                    b.Navigation("Requests");
                 });
 
             modelBuilder.Entity("PetAdoptionCenter.Domain.Domain_Models.Pet", b =>
                 {
                     b.Navigation("Adoptions");
+
+                    b.Navigation("Requests");
                 });
 #pragma warning restore 612, 618
         }

@@ -9,3 +9,4 @@ C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Debug\net8
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Debug\net8.0\refint\PetAdoptionCenter.Domain.dll
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.pdb
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Debug\net8.0\ref\PetAdoptionCenter.Domain.dll
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.sourcelink.json

@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PetAdoptionCenter
 build_property.RootNamespace = PetAdoptionCenter
@@ -24,12 +32,80 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/AdoptionCenters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRpb25DZW50ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/AdoptionCenters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRpb25DZW50ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/AdoptionCenters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRpb25DZW50ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/AdoptionCenters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRpb25DZW50ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/AdoptionCenters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRpb25DZW50ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/People/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/People/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/People/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/People/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/People/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/Pets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/Pets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/Pets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/Pets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/Pets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/Pets/RequestAdoption.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xSZXF1ZXN0QWRvcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/Pets/SeeRequestsForPet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xTZWVSZXF1ZXN0c0ZvclBldC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/aleks/Desktop/PetAdoptionCenter/PetAdoptionCenter/PetAdoptionCenter/Views/Shared/Error.cshtml]

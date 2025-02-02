@@ -15,3 +15,4 @@ C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\PetAdoptionCenter.Rep
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\PetAdoptionCenter.Repository\obj\Debug\net8.0\ref\PetAdoptionCenter.Repository.dll
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\PetAdoptionCenter.Repository\bin\Debug\net8.0\PetAdoptionCenter.Repository.runtimeconfig.json
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\PetAdoptionCenter.Repository\obj\Debug\net8.0\PetAdoptionCenter.Repository.genruntimeconfig.cache
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\PetAdoptionCenter.Repository\obj\Debug\net8.0\PetAdoptionCenter.Repository.sourcelink.json

@@ -42,6 +42,13 @@ namespace PetAdoptionCenter.Repository.Implementation
                     .Include("User")
                     .First(s => s.Id == id);
             }
+            else if (typeof(T).IsAssignableFrom(typeof(Pet)))
+            {
+                return entities
+                    .Include("Requests")
+                    .Include("Requests.User")
+                    .First(s => s.Id == id);
+            }
             else
             {
                 return entities.First(s => s.Id == id);

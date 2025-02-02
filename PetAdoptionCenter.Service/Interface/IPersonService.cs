@@ -9,7 +9,7 @@ namespace PetAdoptionCenter.Service.Interface
 {
     public interface IPersonService
     {
-        List<Person> GetAllPersons();
+        IEnumerable<Person> GetAllPersons();
         Person GetDetailsForPerson(Guid? id);
         Person CreateNewPerson(Person person);
         Person UpdateExistingPerson(Person person);

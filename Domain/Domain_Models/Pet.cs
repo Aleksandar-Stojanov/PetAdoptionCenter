@@ -10,8 +10,13 @@ namespace PetAdoptionCenter.Domain.Domain_Models
     {
         public string? Name { get; set; }
         public string? Breed { get; set; }
-        public int? Age { get; set; }
+        public string? Image { get; set; }
+        public DateTime? DateOfBirth { get; set; }
+        public bool IsAdopted { get; set; }
 
+        public AdoptionCenter? Center { get; set; }
+        public Guid? CenterId { get; set; }
         public ICollection<Adoption>? Adoptions { get; set; }
+        public ICollection<RequestForAdoption>? Requests { get; set; }
     }
 }

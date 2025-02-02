@@ -18,9 +18,9 @@ namespace PetAdoptionCenter.Service.Implementation
             _personRepository = personRepository;
         }
 
-        public List<Person> GetAllPersons()
+        public IEnumerable<Person> GetAllPersons()
         {
-            return _personRepository.GetAll().ToList();
+            return _personRepository.GetAll();
         }
 
         public Person GetDetailsForPerson(Guid? id)
@@ -30,11 +30,13 @@ namespace PetAdoptionCenter.Service.Implementation
 
         public Person CreateNewPerson(Person person)
         {
+            person.FullName = person.FirstName + " " + person.LastName;
             return _personRepository.Insert(person);
         }
 
         public Person UpdateExistingPerson(Person person)
         {
+            person.FullName = person.FirstName + " " + person.LastName;
             return _personRepository.Update(person);
         }
 

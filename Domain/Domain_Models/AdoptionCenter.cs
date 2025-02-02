@@ -11,7 +11,7 @@ namespace PetAdoptionCenter.Domain.Domain_Models
         public string? Name { get; set; }
         public string? Location { get; set; }
 
-        public ICollection<Adoption>? Adoptions { get; set; }
+        public ICollection<Pet>? Pets { get; set; }
 
     }
 }

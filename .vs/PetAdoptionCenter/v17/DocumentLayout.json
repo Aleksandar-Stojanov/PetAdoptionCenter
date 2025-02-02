@@ -1,7 +1,167 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\views\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\views\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\views\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\views\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetAdoptionCenter/True/SqlTable/dbo.Adoptions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetAdoptionCenter/True/SqlTable/dbo.Pets.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\views\\pets\\seerequestsforpet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\views\\pets\\seerequestsforpet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\views\\pets\\requestadoption.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\views\\pets\\requestadoption.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\views\\people\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\views\\people\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetAdoptionCenter/True/SqlTable/dbo.RequestForAdoption.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F9588-72FE-47DE-BDF3-232DDAD329FB}|PetAdoptionCenter.Repository\\PetAdoptionCenter.Repository.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9F9588-72FE-47DE-BDF3-232DDAD329FB}|PetAdoptionCenter.Repository\\PetAdoptionCenter.Repository.csproj|solutionrelative:petadoptioncenter.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\views\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\views\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetAdoptionCenter/True/SqlTable/dbo.AdoptionCenters.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetAdoptionCenter/True/SqlTable/dbo.People.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter.service\\implementation\\requestforadoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|solutionrelative:petadoptioncenter.service\\implementation\\requestforadoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\domain\\domain_models\\requestforadoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|solutionrelative:domain\\domain_models\\requestforadoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\domain\\domain_models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|solutionrelative:domain\\domain_models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9F9588-72FE-47DE-BDF3-232DDAD329FB}|PetAdoptionCenter.Repository\\PetAdoptionCenter.Repository.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter.repository\\migrations\\20250202200831_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9F9588-72FE-47DE-BDF3-232DDAD329FB}|PetAdoptionCenter.Repository\\PetAdoptionCenter.Repository.csproj|solutionrelative:petadoptioncenter.repository\\migrations\\20250202200831_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\domain\\domain_models\\dto\\petcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|solutionrelative:domain\\domain_models\\dto\\petcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter.service\\interface\\irequestforadoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|solutionrelative:petadoptioncenter.service\\interface\\irequestforadoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\domain\\domain_models\\adoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|solutionrelative:domain\\domain_models\\adoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\domain\\domain_models\\dto\\requestforadoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|solutionrelative:domain\\domain_models\\dto\\requestforadoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\domain\\domain_models\\adoptioncenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|solutionrelative:domain\\domain_models\\adoptioncenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\domain\\domain_models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57749676-856A-48A6-963F-45196F3731B6}|Domain\\PetAdoptionCenter.Domain.csproj|solutionrelative:domain\\domain_models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202192200_mig6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoptionCenter.Repository\\Migrations\\20250202192200_mig6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter.service\\implementation\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|solutionrelative:petadoptioncenter.service\\implementation\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter.service\\implementation\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|solutionrelative:petadoptioncenter.service\\implementation\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter.service\\interface\\iadoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|solutionrelative:petadoptioncenter.service\\interface\\iadoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter.service\\implementation\\adoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|solutionrelative:petadoptioncenter.service\\implementation\\adoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter.service\\interface\\ipetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|solutionrelative:petadoptioncenter.service\\interface\\ipetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\views\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\views\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202173732_mig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoptionCenter.Repository\\Migrations\\20250202173732_mig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202174524_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoptionCenter.Repository\\Migrations\\20250202174524_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202173429_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoptionCenter.Repository\\Migrations\\20250202173429_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\controllers\\adoptioncenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\controllers\\adoptioncenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter.service\\interface\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94504C-17B2-41C7-8DFB-05CCDDD46FB5}|PetAdoptionCenter.Service\\PetAdoptionCenter.Service.csproj|solutionrelative:petadoptioncenter.service\\interface\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|c:\\users\\aleks\\desktop\\petadoptioncenter\\petadoptioncenter\\petadoptioncenter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E85708-1594-44E7-882D-5DC85E58D696}|PetAdoptionCenter\\PetAdoptionCenter.csproj|solutionrelative:petadoptioncenter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +169,525 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Pets [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetAdoptionCenter/True/SqlTable/dbo.Pets.sql",
+              "ToolTip": "dbo.Pets [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-02T20:11:07.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Adoptions [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetAdoptionCenter/True/SqlTable/dbo.Adoptions.sql",
+              "ToolTip": "dbo.Adoptions [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-02T20:19:40.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Controllers\\PetsController.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Controllers\\PetsController.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Controllers\\PetsController.cs",
+              "RelativeToolTip": "PetAdoptionCenter\\Controllers\\PetsController.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAqwAIBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:14:52.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\Details.cshtml",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Views\\Pets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\Details.cshtml",
+              "RelativeToolTip": "PetAdoptionCenter\\Views\\Pets\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:33:54.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Views\\Pets\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\Delete.cshtml*",
+              "RelativeToolTip": "PetAdoptionCenter\\Views\\Pets\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:33:24.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Views\\Pets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\Index.cshtml",
+              "RelativeToolTip": "PetAdoptionCenter\\Views\\Pets\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:33:16.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeeRequestsForPet.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\SeeRequestsForPet.cshtml",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Views\\Pets\\SeeRequestsForPet.cshtml",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\SeeRequestsForPet.cshtml",
+              "RelativeToolTip": "PetAdoptionCenter\\Views\\Pets\\SeeRequestsForPet.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T19:12:30.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestAdoption.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\RequestAdoption.cshtml",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Views\\Pets\\RequestAdoption.cshtml",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\RequestAdoption.cshtml",
+              "RelativeToolTip": "PetAdoptionCenter\\Views\\Pets\\RequestAdoption.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T18:35:25.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\People\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Views\\People\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\People\\Edit.cshtml",
+              "RelativeToolTip": "PetAdoptionCenter\\Views\\People\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T20:32:27.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.RequestForAdoption [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetAdoptionCenter/True/SqlTable/dbo.RequestForAdoption.sql",
+              "ToolTip": "dbo.RequestForAdoption [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-02T19:25:32.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\Create.cshtml",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Views\\Pets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\Create.cshtml",
+              "RelativeToolTip": "PetAdoptionCenter\\Views\\Pets\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:33:01.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAawDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:15:18.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.AdoptionCenters [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetAdoptionCenter/True/SqlTable/dbo.AdoptionCenters.sql",
+              "ToolTip": "dbo.AdoptionCenters [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-02T20:10:59.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.People [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetAdoptionCenter/True/SqlTable/dbo.People.sql",
+              "ToolTip": "dbo.People [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-02T19:23:17.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\Pet.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain_Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\Pet.cs",
+              "RelativeToolTip": "Domain\\Domain_Models\\Pet.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:31:57.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RequestForAdoption.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\RequestForAdoption.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain_Models\\RequestForAdoption.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\RequestForAdoption.cs",
+              "RelativeToolTip": "Domain\\Domain_Models\\RequestForAdoption.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:18:30.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequestForAdoptionService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Implementation\\RequestForAdoptionService.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Service\\Implementation\\RequestForAdoptionService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Implementation\\RequestForAdoptionService.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Service\\Implementation\\RequestForAdoptionService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:21:48.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250202200831_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202200831_mig1.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Repository\\Migrations\\20250202200831_mig1.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202200831_mig1.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Repository\\Migrations\\20250202200831_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:08:31.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PetCreationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\DTO\\PetCreationDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain_Models\\DTO\\PetCreationDTO.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\DTO\\PetCreationDTO.cs",
+              "RelativeToolTip": "Domain\\Domain_Models\\DTO\\PetCreationDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:00:18.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRequestForAdoptionService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Interface\\IRequestForAdoptionService.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Service\\Interface\\IRequestForAdoptionService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Interface\\IRequestForAdoptionService.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Service\\Interface\\IRequestForAdoptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:20:30.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Adoption.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\Adoption.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain_Models\\Adoption.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\Adoption.cs",
+              "RelativeToolTip": "Domain\\Domain_Models\\Adoption.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:18:41.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RequestForAdoptionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\DTO\\RequestForAdoptionDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain_Models\\DTO\\RequestForAdoptionDTO.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\DTO\\RequestForAdoptionDTO.cs",
+              "RelativeToolTip": "Domain\\Domain_Models\\DTO\\RequestForAdoptionDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:36:56.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdoptionCenter.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\AdoptionCenter.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain_Models\\AdoptionCenter.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\AdoptionCenter.cs",
+              "RelativeToolTip": "Domain\\Domain_Models\\AdoptionCenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:19:15.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\Person.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain_Models\\Person.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\Domain\\Domain_Models\\Person.cs",
+              "RelativeToolTip": "Domain\\Domain_Models\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:52:11.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250202192200_mig6.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202192200_mig6.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Repository\\Migrations\\20250202192200_mig6.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202192200_mig6.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Repository\\Migrations\\20250202192200_mig6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:22:00.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\People\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Views\\People\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\People\\Index.cshtml",
+              "RelativeToolTip": "PetAdoptionCenter\\Views\\People\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T19:12:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "PetAdoptionCenter\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:14:41.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Implementation\\PersonService.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Service\\Implementation\\PersonService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Implementation\\PersonService.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Service\\Implementation\\PersonService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:27:59.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PetService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Implementation\\PetService.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Service\\Implementation\\PetService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Implementation\\PetService.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Service\\Implementation\\PetService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:54:59.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Program.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Program.cs",
+              "RelativeToolTip": "PetAdoptionCenter\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:19:06.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IPetService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Interface\\IPetService.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Service\\Interface\\IPetService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Interface\\IPetService.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Service\\Interface\\IPetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:20:37.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAdoptionService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Interface\\IAdoptionService.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Service\\Interface\\IAdoptionService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Interface\\IAdoptionService.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Service\\Interface\\IAdoptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:25:49.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdoptionService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Implementation\\AdoptionService.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Service\\Implementation\\AdoptionService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Implementation\\AdoptionService.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Service\\Implementation\\AdoptionService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:28:48.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Views\\Pets\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Pets\\Edit.cshtml",
+              "RelativeToolTip": "PetAdoptionCenter\\Views\\Pets\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:33:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250202174524_mig5.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202174524_mig5.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Repository\\Migrations\\20250202174524_mig5.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202174524_mig5.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Repository\\Migrations\\20250202174524_mig5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:45:24.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250202173732_mig4.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202173732_mig4.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Repository\\Migrations\\20250202173732_mig4.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202173732_mig4.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Repository\\Migrations\\20250202173732_mig4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:37:32.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250202173429_mig3.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202173429_mig3.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Repository\\Migrations\\20250202173429_mig3.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Repository\\Migrations\\20250202173429_mig3.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Repository\\Migrations\\20250202173429_mig3.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:34:29.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdoptionCentersController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Controllers\\AdoptionCentersController.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Controllers\\AdoptionCentersController.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Controllers\\AdoptionCentersController.cs",
+              "RelativeToolTip": "PetAdoptionCenter\\Controllers\\AdoptionCentersController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAIwIkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:13:53.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Interface\\IPersonService.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter.Service\\Interface\\IPersonService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter.Service\\Interface\\IPersonService.cs",
+              "RelativeToolTip": "PetAdoptionCenter.Service\\Interface\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:28:28.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PetAdoptionCenter\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:24:28.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PetAdoptionCenter\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PetAdoptionCenter\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:14:34.712Z",
+              "EditorCaption": ""
             }
           ]
         }
