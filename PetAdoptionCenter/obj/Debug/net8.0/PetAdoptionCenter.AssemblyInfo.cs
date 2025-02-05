@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetAdoptionCenter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27e5bd30d9cdf0e27a0cde8d76ddd4ccf8ea5206")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30f820611c240531929a8a4257564af8347bd54e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetAdoptionCenter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetAdoptionCenter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

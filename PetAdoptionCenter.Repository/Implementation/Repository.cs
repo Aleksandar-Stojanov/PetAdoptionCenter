@@ -26,6 +26,14 @@ namespace PetAdoptionCenter.Repository.Implementation
                     .AsEnumerable();
 
             }
+            else if (typeof(T).IsAssignableFrom(typeof(Pet)))
+            {
+                return entities
+                    .Include("Requests")
+                    .Include("Requests.User")
+                    .Include("Center")
+                    .AsEnumerable();
+            }
             else
             {
                 return entities.AsEnumerable();
@@ -47,6 +55,7 @@ namespace PetAdoptionCenter.Repository.Implementation
                 return entities
                     .Include("Requests")
                     .Include("Requests.User")
+                    .Include("Center")
                     .First(s => s.Id == id);
             }
             else

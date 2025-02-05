@@ -1,0 +1,72 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<PetAdoptionCenter.Domain.Domain_Models.Adoption>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Image
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pet.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pet.Breed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pet.Center.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pet.Center.Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AdoptionDate)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+
+                    <img src="@item.Pet.Image" alt="Card image cap"
+                         style="height: 40px;">
+
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pet.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pet.Breed)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pet.Center.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pet.Center.Location)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AdoptionDate)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
