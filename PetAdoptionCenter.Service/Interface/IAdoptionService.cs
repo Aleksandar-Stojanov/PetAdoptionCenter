@@ -12,5 +12,7 @@ namespace PetAdoptionCenter.Service.Interface
         IEnumerable<Adoption> GetAllAdoptions();
         Adoption CreateNewAdoption(Adoption adoption);
         Adoption DeleteAdoption(Adoption adoption);
+
+        Adoption GetDetailsForAdoption(Guid? id);
     }
 }

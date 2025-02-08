@@ -10,3 +10,15 @@ C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Debug\net8
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.pdb
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Debug\net8.0\ref\PetAdoptionCenter.Domain.dll
 C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.sourcelink.json
+C:\ISIspit\PetAdoptionCenter\Domain\bin\Debug\net8.0\PetAdoptionCenter.Domain.deps.json
+C:\ISIspit\PetAdoptionCenter\Domain\bin\Debug\net8.0\PetAdoptionCenter.Domain.dll
+C:\ISIspit\PetAdoptionCenter\Domain\bin\Debug\net8.0\PetAdoptionCenter.Domain.pdb
+C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.AssemblyInfoInputs.cache
+C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.AssemblyInfo.cs
+C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.csproj.CoreCompileInputs.cache
+C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.sourcelink.json
+C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.dll
+C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\refint\PetAdoptionCenter.Domain.dll
+C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.pdb
+C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\ref\PetAdoptionCenter.Domain.dll

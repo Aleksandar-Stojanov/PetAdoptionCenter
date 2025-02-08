@@ -66,7 +66,11 @@
                 <td>
                     @Html.DisplayFor(modelItem => item.AdoptionDate)
                 </td>
+                <td><a asp-action="CreateInvoice" asp-route-Id="@item.Id" class="btn btn-danger">Create Invoice</a></td>
+
             </tr>
+
         }
+
     </tbody>
 </table>

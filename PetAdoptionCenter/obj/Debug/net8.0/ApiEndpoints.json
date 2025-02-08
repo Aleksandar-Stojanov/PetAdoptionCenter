@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "ContainingType": "PetAdoptionCenter.Controllers.API.AdminController",
+    "Method": "GetDetails",
+    "RelativePath": "api/Admin/GetDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "PetAdoptionCenter.Domain.Domain_Models.BaseEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PetAdoptionCenter.Domain.Domain_Models.Adoption",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

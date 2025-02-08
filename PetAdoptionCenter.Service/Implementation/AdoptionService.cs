@@ -32,5 +32,10 @@ namespace PetAdoptionCenter.Service.Implementation
         {
             return repository.GetAll();
         }
+
+        public Adoption GetDetailsForAdoption(Guid? id)
+        {
+            return repository.Get(id);
+        }
     }
 }
