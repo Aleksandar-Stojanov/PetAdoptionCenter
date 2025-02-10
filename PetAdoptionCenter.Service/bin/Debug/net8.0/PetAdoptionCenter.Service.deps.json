@@ -699,7 +699,10 @@
       },
       "PetAdoptionCenter.Domain/1.0.0": {
         "runtime": {
-          "PetAdoptionCenter.Domain.dll": {}
+          "PetAdoptionCenter.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PetAdoptionCenter.Repository/1.0.0": {
@@ -712,7 +715,10 @@
           "PetAdoptionCenter.Domain": "1.0.0"
         },
         "runtime": {
-          "PetAdoptionCenter.Repository.dll": {}
+          "PetAdoptionCenter.Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -2170,14 +2170,7 @@
           }
         }
       },
-      "System.Formats.Asn1/8.0.1": {
-        "runtime": {
-          "lib/net8.0/System.Formats.Asn1.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.724.31311"
-          }
-        }
-      },
+      "System.Formats.Asn1/8.0.1": {},
       "System.IdentityModel.Tokens.Jwt/6.35.0": {
         "dependencies": {
           "Microsoft.IdentityModel.JsonWebTokens": "6.35.0",
@@ -2336,7 +2329,10 @@
       },
       "PetAdoptionCenter.Domain/1.0.0": {
         "runtime": {
-          "PetAdoptionCenter.Domain.dll": {}
+          "PetAdoptionCenter.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PetAdoptionCenter.Repository/1.0.0": {
@@ -2349,7 +2345,10 @@
           "PetAdoptionCenter.Domain": "1.0.0"
         },
         "runtime": {
-          "PetAdoptionCenter.Repository.dll": {}
+          "PetAdoptionCenter.Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PetAdoptionCenter.Service/1.0.0": {
@@ -2358,7 +2357,10 @@
           "PetAdoptionCenter.Repository": "1.0.0"
         },
         "runtime": {
-          "PetAdoptionCenter.Service.dll": {}
+          "PetAdoptionCenter.Service.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
