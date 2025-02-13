@@ -1,0 +1,88 @@
+﻿@model PetAdoptionCenter.Domain.Domain_Models.PartnerModels.Partner.Booking
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Booking</h4>
+    <hr />
+
+        <img src="@Model.TravelPackage.Image" alt="Card image cap"
+         style="height: 200px;">
+
+    <dl class="row">
+        <dt class="col-sm-4">
+            <b>Id:</b>
+        </dt>
+        <dd class="col-sm-8">
+            @Model.Id
+        </dd>
+        <dt class="col-sm-4">
+            <b>First name:</b>
+        </dt>
+        <dd class="col-sm-8">
+            @Model.User.FirstName
+        </dd>
+        <dt class="col-sm-4">
+            <b>Last name:</b>
+        </dt>
+        <dd class="col-sm-8">
+            @Model.User.LastName
+        </dd>
+        <dt class="col-sm-4">
+            <b>Email:</b>
+        </dt>
+        <dd class="col-sm-8">
+            @Model.User.Email
+        </dd>
+        <dt class="col-sm-4">
+            <b>Travel package name:</b>
+        </dt>
+        <dd class="col-sm-8">
+            @Model.TravelPackage.Name
+        </dd>
+        <dt class="col-sm-4">
+            <b>Name of accomodation place:</b>
+        </dt>
+        <dd class="col-sm-8">
+            @Model.TravelPackage.Accommodation.Name
+        </dd>
+        <dt class="col-sm-4">
+            <b>Travel package description:</b>
+        </dt>
+        <dd class="col-sm-8">
+            @Model.TravelPackage.Description
+        </dd>
+        <dt class="col-sm-4">
+            <b>Number of rooms booked:</b>
+        </dt>
+        <dd class="col-sm-8">
+            @Model.NumberOfRooms
+        </dd>
+        <dt class="col-sm-4">
+            <b>Price per night of accomodation:</b>
+        </dt>
+        <dd class="col-sm-8">
+            @Model.TravelPackage.Accommodation.PricePerNight мкд
+        </dd>
+        <dt class="col-sm-4">
+            <b>Number of nights staying:</b>
+        </dt>
+        <dd class="col-sm-8">
+            @Model.TravelPackage.NumberOfNights nights
+        </dd>
+        <dt class="col-sm-4">
+            <b>Full price:</b>
+        </dt>
+        <dd class="col-sm-8">
+            @Model.FullPrice мкд
+        </dd>
+    </dl>
+</div>
+<div>
+
+    <a asp-action="Index">Back to List</a>
+</div>

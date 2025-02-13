@@ -22,3 +22,6 @@ C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.dl
 C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\refint\PetAdoptionCenter.Domain.dll
 C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.pdb
 C:\ISIspit\PetAdoptionCenter\Domain\obj\Debug\net8.0\ref\PetAdoptionCenter.Domain.dll
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\bin\Debug\net8.0\PetAdoptionCenter.Domain.runtimeconfig.json
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Debug\net8.0\PetAdoptionCenter.Domain.genruntimeconfig.cache

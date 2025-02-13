@@ -19,6 +19,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddScoped(typeof(IPartnersRepository), typeof(PartnersRepository));
 
 
 builder.Services.AddTransient<ICenterService, CenterService>();
@@ -26,10 +27,16 @@ builder.Services.AddTransient<IPersonService, PersonService>();
 builder.Services.AddTransient<IRequestForAdoptionService, RequestForAdoptionService>();
 builder.Services.AddTransient<IAdoptionService, AdoptionService>();
 builder.Services.AddTransient<IPetService, PetService>();
+builder.Services.AddTransient<IBookingService, BookingService>();
 
 
 builder.Services.AddControllersWithViews().AddNewtonsoftJson(options =>
     options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+
+
+builder.Services.AddDbContext<TravelAgencyDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("TravelAgencyConnection")));
+
 
 var app = builder.Build();
 

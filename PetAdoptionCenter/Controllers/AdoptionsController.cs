@@ -29,7 +29,7 @@ namespace PetAdoptionCenter.Controllers
         public FileContentResult CreateInvoice(Guid Id)
         {
             HttpClient client = new HttpClient();
-            string URL = "http://localhost:5065/api/Admin/GetDetails";
+            string URL = "https://petadoptioncenterproject-dcfrctarhjd8c6fw.canadacentral-01.azurewebsites.net/api/Admin/GetDetails";
             var model = new
             {
                 Id = Id 
@@ -40,7 +40,7 @@ namespace PetAdoptionCenter.Controllers
 
             var data = response.Content.ReadAsAsync<Adoption>().Result;
 
-            var templatePath = Path.Combine(Directory.GetCurrentDirectory(), "Invoice.docx");
+            var templatePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Invoice.docx");
             var document = DocumentModel.Load(templatePath);
             document.Content.Replace("{{PetName}}", data.Pet.Name);
             document.Content.Replace("{{Breed}}", data.Pet.Breed);

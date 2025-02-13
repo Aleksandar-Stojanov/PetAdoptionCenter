@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\Invoice.docx" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.5.1" />
     <PackageReference Include="GemBox.Document" Version="2025.1.103" />
     <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="6.0.0" />

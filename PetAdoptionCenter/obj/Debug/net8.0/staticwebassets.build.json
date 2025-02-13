@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wlJkRN4pO+w0DRBmu+nJ3SOKxCErNnAyiNY9Kfb1hnE=",
+  "Hash": "+ouLmpcwDAtpyOk3q7ehAYrZKIzwParBsZP0TJRiovQ=",
   "Source": "PetAdoptionCenter",
   "BasePath": "_content/PetAdoptionCenter",
   "Mode": "Default",
@@ -1359,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\wwwroot\\Invoice.docx",
+      "SourceId": "PetAdoptionCenter",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\wwwroot\\",
+      "BasePath": "_content/PetAdoptionCenter",
+      "RelativePath": "Invoice#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rjjhtdkb09",
+      "Integrity": "yfHD4qz3Ku+pLwRsODjSyRxZJS6fH/mViWPn8J2D5Zk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Invoice.docx"
     },
     {
       "Identity": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\wwwroot\\js\\site.js",
@@ -4961,6 +4982,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "Invoice.docx",
+      "AssetFile": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\wwwroot\\Invoice.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yfHD4qz3Ku+pLwRsODjSyRxZJS6fH/mViWPn8J2D5Zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yfHD4qz3Ku+pLwRsODjSyRxZJS6fH/mViWPn8J2D5Zk="
+        }
+      ]
+    },
+    {
+      "Route": "Invoice.rjjhtdkb09.docx",
+      "AssetFile": "C:\\Users\\aleks\\Desktop\\PetAdoptionCenter\\PetAdoptionCenter\\PetAdoptionCenter\\wwwroot\\Invoice.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yfHD4qz3Ku+pLwRsODjSyRxZJS6fH/mViWPn8J2D5Zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rjjhtdkb09"
+        },
+        {
+          "Name": "label",
+          "Value": "Invoice.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yfHD4qz3Ku+pLwRsODjSyRxZJS6fH/mViWPn8J2D5Zk="
         }
       ]
     },

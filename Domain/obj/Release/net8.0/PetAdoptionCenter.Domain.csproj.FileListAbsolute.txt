@@ -1,0 +1,15 @@
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\bin\Release\net8.0\PetAdoptionCenter.Domain.deps.json
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\bin\Release\net8.0\PetAdoptionCenter.Domain.dll
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\bin\Release\net8.0\PetAdoptionCenter.Domain.pdb
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Release\net8.0\PetAdoptionCenter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Release\net8.0\PetAdoptionCenter.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Release\net8.0\PetAdoptionCenter.Domain.AssemblyInfo.cs
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Release\net8.0\PetAdoptionCenter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Release\net8.0\PetAdoptionCenter.Domain.sourcelink.json
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Release\net8.0\PetAdoptionCenter.Domain.dll
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Release\net8.0\refint\PetAdoptionCenter.Domain.dll
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Release\net8.0\PetAdoptionCenter.Domain.pdb
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Release\net8.0\ref\PetAdoptionCenter.Domain.dll
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\bin\Release\net8.0\PetAdoptionCenter.Domain.runtimeconfig.json
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Release\net8.0\PetAdoptionCenter.Domain.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\PetAdoptionCenter\PetAdoptionCenter\Domain\obj\Release\net8.0\PetAdoptionCenter.Domain.genruntimeconfig.cache

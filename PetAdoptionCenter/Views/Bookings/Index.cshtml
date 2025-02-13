@@ -1,0 +1,58 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<PetAdoptionCenter.Domain.Domain_Models.PartnerModels.Partner.Booking>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Full name
+            </th>
+
+            <th>
+                Travel package name
+            </th>
+            <th>
+                Name of accomodation place
+            </th>
+
+
+            <th>
+                Full Price
+            </th>
+            <th>See details</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @item.User.FirstName @item.User.LastName
+                </td>
+                <td>
+                    @item.TravelPackage.Name
+                </td>
+                <td>
+                    @item.TravelPackage.Accommodation.Name
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullPrice) мкд
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

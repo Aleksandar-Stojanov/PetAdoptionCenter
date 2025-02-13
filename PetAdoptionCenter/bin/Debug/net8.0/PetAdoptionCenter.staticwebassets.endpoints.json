@@ -2223,6 +2223,88 @@
       ]
     },
     {
+      "Route": "Invoice.docx",
+      "AssetFile": "Invoice.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yfHD4qz3Ku+pLwRsODjSyRxZJS6fH/mViWPn8J2D5Zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yfHD4qz3Ku+pLwRsODjSyRxZJS6fH/mViWPn8J2D5Zk="
+        }
+      ]
+    },
+    {
+      "Route": "Invoice.rjjhtdkb09.docx",
+      "AssetFile": "Invoice.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yfHD4qz3Ku+pLwRsODjSyRxZJS6fH/mViWPn8J2D5Zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rjjhtdkb09"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yfHD4qz3Ku+pLwRsODjSyRxZJS6fH/mViWPn8J2D5Zk="
+        },
+        {
+          "Name": "label",
+          "Value": "Invoice.docx"
+        }
+      ]
+    },
+    {
       "Route": "PetAdoptionCenter.lkw9c1y4e2.styles.css",
       "AssetFile": "PetAdoptionCenter.styles.css",
       "Selectors": [],
